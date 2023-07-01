@@ -1,5 +1,5 @@
-# Open-CS-Courses-works
-This is a place to share my works on open EE courses. This is aimed to record my learning path
+# Open-EE-Courses-works
+This is a place to share my works on open EE courses, books and exercises. This is aimed to record my learning path
 
 **Course list**
 | Course      | Learning point | Status     |
@@ -12,3 +12,4 @@ This is a place to share my works on open EE courses. This is aimed to record my
 | [EECS 106B Robotic Manipulation and Interaction](https://ucb-ee106.github.io/106b-sp23site/)      | Robotics | Not started     |
 | [EE120 Signals and Systems](https://inst.eecs.berkeley.edu/~ee120/fa19/), [Lectures](https://www.bilibili.com/video/BV1k341187vL/?p=1&vd_source=928e971e8c767e85639b26fb406d36ca)      | Learning point | Not started     |
 | [EECS 151 Introduction to Digital Design and Integrated Circuits](https://inst.eecs.berkeley.edu/~eecs151/fa20/)      | Learning point | Not started     |
+| [The art of electronics](https://artofelectronics.net/)	|	Electronics	|	Not started	|
