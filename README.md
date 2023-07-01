@@ -13,3 +13,6 @@ This is a place to share my works on open EE courses, books and exercises. This 
 | [EE120 Signals and Systems](https://inst.eecs.berkeley.edu/~ee120/fa19/), [Lectures](https://www.bilibili.com/video/BV1k341187vL/?p=1&vd_source=928e971e8c767e85639b26fb406d36ca)      | Learning point | Not started     |
 | [EECS 151 Introduction to Digital Design and Integrated Circuits](https://inst.eecs.berkeley.edu/~eecs151/fa20/)      | Learning point | Not started     |
 | [The art of electronics](https://artofelectronics.net/)	|	Electronics	|	Not started	|
+| [Digital Integrated Circuits: A Design Perspective](https://www.amazon.com/Digital-Integrated-Circuits-2nd-Rabaey/dp/0130909963)	|	Circuits	|	Not started	|
+| [RF Circuit Design: Theory & Applications](https://www.amazon.com/RF-Circuit-Design-Theory-Applications/dp/0131471376)	|	RF	|	Not started	|
+
