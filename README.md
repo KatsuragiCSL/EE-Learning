@@ -2,8 +2,8 @@
 This is a place to share my works on open EE courses, books and exercises. This is aimed to record my learning path
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     | Works	|
+| :---        | :----          | :---       | :---	|
 | [ENGR 40M An Introduction to Making: What is EE](https://web.stanford.edu/class/archive/engr/engr40m.1178/index.html)      | Learning point | Not started     |
 | [MIT 6.002 Circuits And Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)      | Learning point | Not started     |
 | [EECS 16A Designing Information Devices and Systems I](https://inst.eecs.berkeley.edu/~ee16a/fa22/), [Lectures](https://www.youtube.com/playlist?list=PLsNggES3qC0wGSzVXhket0O_0K7JF0TQp)      | Learning point | Not started     |
