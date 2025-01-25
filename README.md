@@ -1,9 +1,9 @@
-# Open-EE-Courses-works
-This is a place to share my works on open EE courses, books and exercises. This is aimed to record my learning path
+# EE Learning
+Learning catalogs on EE courses, books etc.
 
 **Course list**
-| Course      | Learning point | Status     | Works	|
-| :---        | :----          | :---       | :---	|
+| Course/Book      | Category | Status     |    Comments        |
+| :---        | :----          | :---       |   :---            |
 | [MIT 6.01 Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)	|	learning point	|	Not started	|
 | [MIT 6.02 Introduction to EECS II: Digital Communication Systems](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/)	|	learning point	|	Not started	|
 | [MIT 6.003 Signals and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/)	|	learning point	|	Not started	|
